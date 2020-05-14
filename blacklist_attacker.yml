@@ -1,5 +1,5 @@
 ---
-- name: Whitelist attacker
+- name: Blacklist attacker
   hosts: checkpoint
 
   vars:
